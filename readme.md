@@ -1,7 +1,7 @@
 # Trabalho Prático de Paradigmas
 
-Alunos: 
+## Alunos: 
 
-Renan Janelo da Rocha --- 21011473-2
+### Renan Janelo da Rocha --- 21011473-2
 
-Pedro Mazzurana --- 21149375-2
+### Pedro Mazzurana --- 21149375-2
